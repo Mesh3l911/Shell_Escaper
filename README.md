@@ -43,7 +43,7 @@ or
 
 <code>python3 Shell_Escaper.py --spath <Sudo_Path></code>
 <br>
-![](Shell_Escaper_images/usage)  <br><br>
+![](Shell_Escaper_images/usage.png)  <br><br>
 <br>
 
 # P.s :
