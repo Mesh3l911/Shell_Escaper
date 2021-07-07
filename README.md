@@ -28,7 +28,7 @@
 <br>
 
 <br>
-<code>python3 Shell_Escaper.py --user <SSh_Username> --key <SShPrivateKey_Path> --port <SSh_Port> --host <SSh_Host></code>
+<code> python3 Shell_Escaper.py --user <SSh_Username> --key <SShPrivateKey_Path> --port <SSh_Port> --host <SSh_Host> </code>
 <br>
 
 or
