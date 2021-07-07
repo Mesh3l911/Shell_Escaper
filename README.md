@@ -16,25 +16,37 @@
 <br>
 
 # Usage :
-python3 Shell_Escaper.py --user <SSh_Username> --key <SShPrivateKey_Path> --port <SSh_Port> --host <SSh_Host>
 <br>
+<code>python3 Shell_Escaper.py --user <SSh_Username> --key <SShPrivateKey_Path> --port <SSh_Port> --host <SSh_Host></code>
+<br>
+<br>
+
 or
 <br>
-python3 Shell_Escaper.py --user <SSh_Username> --pass <SSh_Password> --port <SSh_Port> --host <SSh_Host>
 <br>
+
+<code>python3 Shell_Escaper.py --user <SSh_Username> --pass <SSh_Password> --port <SSh_Port> --host <SSh_Host></code>
+<br>
+<br>
+
 or
 <br>
-python3 Shell_Escaper.py --upath <UID_Path>
 <br>
+
+<code>python3 Shell_Escaper.py --upath <UID_Path></code>
+<br>
+<br>
+
 or
 <br>
-python3 Shell_Escaper.py --spath <Sudo_Path>
+<br>
+
+<code>python3 Shell_Escaper.py --spath <Sudo_Path></code>
 <br>
 ![](Shell_Escaper_images/usage)  <br><br>
-
 <br>
 
 # P.s :
-It doesn't have any auto-expl0it 
+<b>It doesn't have any auto-expl0it<b> 
 
 # Happy Hunting ^_^ 
