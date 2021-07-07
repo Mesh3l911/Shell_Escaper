@@ -1,9 +1,14 @@
-![](Sub_images/sub_logo.jpg)  <br>
+![](Shell_Escaper_images/sudo)  <br>
 <br>
+![](Shell_Escaper_images/suid)  <br>
+<br>
+![](Shell_Escaper_images/sudo2)  <br>
+<br>
+
 
 # Shell_Escaper v1.0 :
 
-<br><b>A tool that automates the process of extracting the Shell Escape Sequences out of GTFOBins with three differint ways both locally and remotely </b>
+<br><b>A tool that automates the process of extracting the Shell Escape Sequences for Binaries with Suid bit and Sudo out of GTFOBins with three differint ways both locally and remotely </b>
 <br>
 
 # Installation : 
@@ -19,26 +24,20 @@
 <br>
 <code>python3 Shell_Escaper.py --user <SSh_Username> --key <SShPrivateKey_Path> --port <SSh_Port> --host <SSh_Host></code>
 <br>
-<br>
 
 or
-<br>
 <br>
 
 <code>python3 Shell_Escaper.py --user <SSh_Username> --pass <SSh_Password> --port <SSh_Port> --host <SSh_Host></code>
 <br>
-<br>
 
 or
-<br>
 <br>
 
 <code>python3 Shell_Escaper.py --upath <UID_Path></code>
 <br>
-<br>
 
 or
-<br>
 <br>
 
 <code>python3 Shell_Escaper.py --spath <Sudo_Path></code>
