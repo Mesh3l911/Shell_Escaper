@@ -1,8 +1,8 @@
-![](Shell_Escaper_images/sudo)  <br>
+![](Shell_Escaper_images/sudo.png)  <br>
 <br>
-![](Shell_Escaper_images/suid)  <br>
+![](Shell_Escaper_images/suid.png)  <br>
 <br>
-![](Shell_Escaper_images/sudo2)  <br>
+![](Shell_Escaper_images/sudo.png)  <br>
 <br>
 
 
