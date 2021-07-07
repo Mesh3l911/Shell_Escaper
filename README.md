@@ -1,7 +1,7 @@
 
 # Shell_Escaper v1.0 :
 
-<br><b>A tool that automates the process of extracting the Shell Escape Sequences for Binaries with Suid bit and Sudo out of GTFOBins with three differint ways both locally and remotely </b>
+<br><b>A tool that automates the process of extracting the Shell Escape Sequences for Binaries with Setuid bit and Sudo out of GTFOBins with three differint ways both locally and remotely </b>
 <br>
 <br>
 ![](Shell_Escaper_images/sudo.png)  <br>
