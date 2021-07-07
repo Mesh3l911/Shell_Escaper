@@ -23,7 +23,8 @@
 
 # Usage :
 <br>
-![](Shell_Escaper_images/usage.png)  <br><br>
+ 
+ ![](Shell_Escaper_images/usage.png)  <br>
 <br>
 
 <br>
@@ -48,7 +49,8 @@ or
 <code>python3 Shell_Escaper.py --spath <Sudo_Path></code>
 
 <br>
-# POC :
+
+ # POC :
  <code>https://youtu.be/kOvfIEVrekE</code>
   
 # P.s :
