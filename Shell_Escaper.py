@@ -184,7 +184,7 @@ def uidSudoscraper():
             for _ in Sudo.read().splitlines():
                 print(sWhite+_+eWhite)
         else:
-            print(""+sWhite+"["+eWhite+""+sRed+"!"+eRed+""+sWhite+"] Couldn't be listed ( Permissions could be a reason )")
+            print(""+sWhite+"["+eWhite+""+sRed+"!"+eRed+""+sWhite+"] Couldn't be listed ( Permissions could be a reason or there's nothing to be executed as Sudo and has a shell escape sequence )")
         print()
 
         for _ in splittedSudo:
